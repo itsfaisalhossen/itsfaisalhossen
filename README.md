@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind," />
 </div>
 
-<h2>📚 Currently Learning</h2>
+<h3>📚 Currently Learning</h3>
 <div>
  <img width="250" src="https://skillicons.dev/icons?i=ts,nextjs,prisma,docker,go,postgres" /></div>
 
