@@ -1,7 +1,6 @@
  <img src="https://i.ibb.co.com/RGhShZyc/linkdin-cover-pic.png" alt="">
 <br>
-<br>
-<br>
+ 
 
 <!-- <h1 lign="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faisal+Hossen!;" />
