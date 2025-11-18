@@ -1,4 +1,4 @@
- <img height="220" width="100%" src="https://i.ibb.co.com/RGhShZyc/linkdin-cover-pic.png" alt="">
+ <img height="100%" width="100%"  src="https://i.ibb.co.com/RGhShZyc/linkdin-cover-pic.png" alt="">
 <br>
  
 
