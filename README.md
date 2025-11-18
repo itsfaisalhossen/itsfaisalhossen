@@ -18,7 +18,7 @@
 
 <h2>🚀 About Me</h2>
 <!-- <hr> -->
-<h4>I'm a passionate MERN Stack Developer Based in Dhaka <br> Bangladesh who loves building dynamic, scalable, and user‑friendly web applications. <br> I enjoy solving complex problems, creating clean UI/UX, and developing backend APIs that are fast, secure, and reliable.</h4>
+<h4>I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. <br> who loves building dynamic, scalable, and user‑friendly web applications. <br> I enjoy solving complex problems, creating clean UI/UX, and developing backend APIs that are fast, secure, and reliable.</h4>
 
 <h2>🛠️ Tech Stack</h2>
 <!-- <hr> -->
