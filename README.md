@@ -43,31 +43,44 @@
 
 <div>
 
-</div>
- 
-<div>
-
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=itsfaisalhossen&show_icons=true&locale=en" alt="itsfaisalhossen" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsfaisalhossen&" alt="itsfaisalhossen" height="160" />
 </div>
 
-<div>
+<h2>🔧 Technologies I Work With</h2>
 
-## 🚀 Most Used Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfaisalhossen&show_icons=true&locale=en&layout=compact" alt="itsfaisalhossen" />
-</div>
+<h2>🚀 Most Used Languages</h2>
 
-<div align='center'>
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfaisalhossen&show_icons=true&locale=en&layout=compact" alt="itsfaisalhossen" />
+</p>
+
 <h2>💬 Let's Connect</h2>
+
 <div>
 
 - 📧 Email: [itsfaisalhossen@gmail.com](mailto:niloykumarmohonta@gmail.com)
 - 🌐 Portfolio: []()
 - 🔗 LinkedIn: []()
-</div>
-</div>
+
 <!-- - 🌐 Portfolio: [https://niloykm.vercel.app](https://niloykm.vercel.app)
 - 🔗 LinkedIn: [niloykumarmohonta000](https://linkedin.com/in/niloykumarmohonta000) -->
+</div>
+
+<h2 align="center">💖 Support Me</h2>
+
+<p align="center">If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !</p>
+
+<h3 align="center">🔥 Thank You for Visiting My Profile 💙</h3>
+<p align="center">Have a wonderful day and happy coding!</p>
