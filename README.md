@@ -1,12 +1,4 @@
-<div>
-<img height="100%" width="100%" src="https://i.ibb.co.com/RGhShZyc/linkdin-cover-pic.png" alt="">
-</div>
-<br>
-<br>
-
-<!-- <h1 lign="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faisal+Hossen!;" />
-</h1> -->
+## <img src="img/cover.png" alt="">
 
 <div lign="center"> 
   <a href="">
@@ -50,4 +42,3 @@
 
 <!-- - 🌐 Portfolio: [https://niloykm.vercel.app](https://niloykm.vercel.app)
 - 🔗 LinkedIn: [niloykumarmohonta000](https://linkedin.com/in/niloykumarmohonta000) -->
-
