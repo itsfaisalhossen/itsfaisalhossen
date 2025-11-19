@@ -65,7 +65,7 @@
 
 <h2>🚀 Most Used Languages</h2>
 
-<p align="left">
+<p align="left" width="100%">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfaisalhossen&show_icons=true&locale=en&layout=compact" alt="itsfaisalhossen" />
 </p>
 
@@ -81,9 +81,8 @@
 - 🔗 LinkedIn: [niloykumarmohonta000](https://linkedin.com/in/niloykumarmohonta000) -->
 </div>
 
-<h2 align="center">💖 Support Me</h2>
+<h2 align="right">💖 Support Me</h2>
 
-<p align="center">If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !</p>
-
-<h3 align="center">🔥 Thank You for Visiting My Profile 💙</h3>
-<p align="center">Have a wonderful day and happy coding!</p>
+<!-- <p align="center">If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !</p> -->
+<h3 align="right">🔥 Thank You for Visiting My Profile </h3>
+<p align="right">Have a wonderful day and happy coding!</p>
