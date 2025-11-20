@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=itsfaisalhossen&label=Profile%20views&color=0e75b6&style=flat" alt="itsfaisalhossen" /> </p>
-
 ## <img src="img/cover.png" alt="">
 
 <div lign="center"> 
@@ -73,6 +71,8 @@
 
 <div>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=itsfaisalhossen&label=Profile%20views&color=0e75b6&style=flat" alt="itsfaisalhossen" /> </p>
+
 - 📧 Email: [itsfaisalhossen@gmail.com](mailto:niloykumarmohonta@gmail.com)
 - 🌐 Portfolio: []()
 - 🔗 LinkedIn: []()
@@ -84,5 +84,5 @@
 <h2 align="right">💖 Support Me</h2>
 
 <!-- <p align="center">If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !</p> -->
-<h3 align="right">🔥 Thank You for Visiting My Profile </h3>
+<p align="right">🔥 Thank You for Visiting My Profile </p>
 <p align="right">Have a wonderful day and happy coding!</p>
