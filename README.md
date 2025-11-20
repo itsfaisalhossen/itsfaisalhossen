@@ -26,7 +26,8 @@ I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. Who loves build
 
 #
 
-<h2>🎯 My Goals</h2>
+<!-- <h2>🎯 My Goals</h2> -->
+<h3>🎯 My Goals</h3>
 <div>
 
 - Become a **Professional Frontend Web Developer**
