@@ -43,9 +43,11 @@ I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. Who loves build
 
 <h2>📊 GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfaisalhossen&show_icons=true&theme=tokyonight&count_private=true" alt="itsfaisalhossen" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsfaisalhossen&theme=tokyonight" alt="itsfaisalhossen" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsfaisalhossen&show_icons=true&count_private=true" alt="itsfaisalhossen" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsfaisalhossen&" alt="itsfaisalhossen" height="170" />
 </div>
+
+<!-- theme=tokyonight -->
 
 <h2>🔧 Technologies I Work With</h2>
 
@@ -61,7 +63,7 @@ I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. Who loves build
 <h2>🚀 Most Used Languages</h2>
 
 <p width="100%" align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfaisalhossen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itsfaisalhossen" height="170"  />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfaisalhossen&show_icons=true&locale=en&layout=compact&" alt="itsfaisalhossen" height="170"  />
 </p>
 
 <h2>💬 Let's Connect</h2>
