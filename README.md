@@ -15,9 +15,16 @@
   </a>
 </div>
 
-<h2>🚀 About Me</h2>
+<!-- <h2>🚀 About Me</h2> -->
 <!-- <hr> -->
-<h4>I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. <br> Who loves building dynamic, scalable, and user‑friendly web applications. <br> I enjoy solving complex problems, creating clean UI/UX, and developing backend APIs that are fast, secure, and reliable.</h4>
+<!-- <h4>I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. <br> Who loves building dynamic, scalable, and user‑friendly web applications. <br> I enjoy solving complex problems, creating clean UI/UX, and developing backend APIs that are fast, secure, and reliable.</h4> -->
+
+## 🚀 About Me
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. Who loves building dynamic, scalable, and user‑friendly web applications. I enjoy solving complex problems, creating clean UI/UX, and developing backend APIs that are fast, secure, and reliable.
+
+#
 
 <h2>🎯 My Goals</h2>
 <div>
@@ -27,7 +34,7 @@
 - Grow as a full-stack capable developer (MERN)
 </div>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack & tools</h2>
 <!-- <hr> -->
 <div>
     <h3>Tools</h3>
@@ -85,4 +92,3 @@
 
 <!-- <p align="center">If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !</p> -->
 <p align="right">🔥 Thank You for Visiting My Profile </p>
-<p align="right">Have a wonderful day and happy coding!</p>
