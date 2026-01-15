@@ -1,55 +1,62 @@
-## <img src="img/cover.png" alt="">
+<p align="center">
+  <img src="img/cover.png" alt="cover" />
+</p>
 
-<div lign="center"> 
-  <a href="https://mail.google.com/">
+<div align="center"> 
+  <a href="mailto:itsfaisalhossen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/itsfaisalhossen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
+  <a href="https://itsfaisalhossen.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />  
   </a>
 </div>
+
+<h3 align="center">MERN Stack Developer | Frontend Focused | UI/UX Enthusiast</h3>
+
+---
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. Who loves building dynamic, scalable, and user‑friendly web applications. I enjoy solving complex problems, creating clean UI/UX, and developing backend APIs that are fast, secure, and reliable.
-<!-- <h2>🎯 My Goals</h2> -->
-<h3>🎯 My Goals</h3>
-<div>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
+I'm a passionate **MERN Stack Developer** based in **Dhaka, Bangladesh**.  
+I love building dynamic, scalable, and user-friendly web applications.  
+I enjoy solving complex problems, creating clean UI/UX, and developing fast, secure, and reliable backend APIs.
+
+### 🎯 My Goals
 
 - Become a **Professional Frontend Web Developer**
 - Build visually appealing and highly functional web applications
-- Grow as a full-stack capable developer (MERN)
-</div>
+- Grow as a **full-stack capable (MERN) developer**
 
-<h2>🛠️ Tech Stack & tools</h2>
-<!-- <hr> -->
-<div>
-    <h3>Tools</h3>
-    <img width="200" src="https://skillicons.dev/icons?i=npm,vscode,github,figma,git,postman,vercel" />
-    <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,firebase" />
-    <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind," />
-</div>
+---
 
-<h3>📚 Currently Learning</h3>
-<div>
- <img width="250" src="https://skillicons.dev/icons?i=ts,nextjs,prisma,docker,go,postgres" /></div>
-<div>
+## 🛠️ Tech Stack & Tools
 
-<h2>📊 GitHub Stats</h2>
+### 🧰 Tools
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfaisalhossen&show_icons=true&count_private=true" alt="itsfaisalhossen" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsfaisalhossen&" alt="itsfaisalhossen" height="170" />
-</div>
+<img src="https://skillicons.dev/icons?i=npm,vscode,github,figma,git,postman,vercel" />
 
-<!-- theme=tokyonight -->
+### ⚙️ Backend
 
-<h2>🔧 Technologies I Work With</h2>
+<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,firebase" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind" />
+
+---
+
+### 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,prisma,docker,go,postgres" />
+
+---
+
+## 🔧 Technologies I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -60,26 +67,26 @@ I'm a passionate MERN Stack Developer Based in Dhaka Bangladesh. Who loves build
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-<h2>🚀 Most Used Languages</h2>
+---
 
-<p width="100%" align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfaisalhossen&show_icons=true&locale=en&layout=compact&" alt="itsfaisalhossen" height="170"  />
+## 💬 Let's Connect
+
+📧 **Email:** [itsfaisalhossen@gmail.com](mailto:itsfaisalhossen@gmail.com)  
+🔗 **LinkedIn:** https://linkedin.com/in/itsfaisalhossen  
+📘 **Facebook:** https://facebook.com/itsfaisalhossen  
+🌐 **Portfolio:** https://itsfaisalhossen.github.io/portfolio/
+
+---
+
+</br>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=itsfaisalhossen&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h2>💬 Let's Connect</h2>
-
-<div>
-
-- 📧 Email: [itsfaisalhossen@gmail.com](mailto:niloykumarmohonta@gmail.com)
-- 🌐 Portfolio: []()
-- 📘 facebook: []()
-- 🔗 LinkedIn: []()
-
-<!-- - 🌐 Portfolio: [https://niloykm.vercel.app](https://niloykm.vercel.app)
-- 🔗 LinkedIn: [niloykumarmohonta000](https://linkedin.com/in/niloykumarmohonta000) -->
-</div>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=itsfaisalhossen&label=Profile%20views&color=0e75b6&style=flat" alt="itsfaisalhossen" /> </p>
 <h2 align="right">💖 Support Me</h2>
-<!-- <p align="center">If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !</p> -->
-<p align="right">🔥 Thank You for Visiting My Profile </p>
+
+<p align="center">
+  If you like my work, consider giving a ⭐ to my repositories or connecting with me.
+</p>
+<p align="center">🔥 Thank You for Visiting My Profile</p>
