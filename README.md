@@ -84,7 +84,7 @@ I enjoy solving complex problems, creating clean UI/UX, and developing fast, sec
   <img src="https://komarev.com/ghpvc/?username=itsfaisalhossen&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h2 align="right">💖 Support Me</h2>
+<h2 align="center">💖 Support Me</h2>
 
 <p align="center">
   If you like my work, consider giving a ⭐ to my repositories or connecting with me.
