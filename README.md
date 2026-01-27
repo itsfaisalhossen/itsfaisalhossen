@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h3 align="center">MERN Stack Developer | Frontend Focused | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend-Focused Full Stack Web Developer (MERN)</h3>
 
 ---
 
